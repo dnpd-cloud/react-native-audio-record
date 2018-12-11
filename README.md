@@ -1,4 +1,4 @@
-
+<!-- 
 # react-native-audio-record
 Audio record buffers for iOS and Android.
 
@@ -53,4 +53,4 @@ I'm not a native app developer. Most of the code is taken from online resources.
 - [cordova-plugin-audioinput](https://github.com/edimuj/cordova-plugin-audioinput)
 - [react-native-recording](https://github.com/qiuxiang/react-native-recording)
 - [SpeakHere](https://github.com/shaojiankui/SpeakHere)
-- [ringdroid](https://github.com/google/ringdroid)
+- [ringdroid](https://github.com/google/ringdroid) -->
